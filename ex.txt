@@ -1,3 +1,4 @@
 this is git hub
 this the demo of
-git hub
+git hubthis is demo of git
+having the git conflict
